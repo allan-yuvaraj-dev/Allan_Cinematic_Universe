@@ -32,7 +32,7 @@
 import i18n from "i18next";
 import { initReactI18next } from "react-i18next";
 
-import { navbarTranslations } from "./constants/i18nConstants/navbarTranslations";
+import { navbarTranslations } from "./constants/i18nConstants/navbarTranslations_temp.js";
 import { educationTranslations } from "./constants/i18nConstants/educationTranslations";
 import { experienceTranslations } from "./constants/i18nConstants/experienceTranslations";
 
