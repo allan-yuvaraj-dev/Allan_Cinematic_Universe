@@ -22,7 +22,7 @@
   <p>
 <strong>ACU</strong> is an immersive 3D portfolio experience built with React Three Fiber, GSAP animations, AI-generated cinematic intros, and interactive 3D models — merging art, technology, and storytelling in one platform.
   </p>
-  <p><a href="https://your-live-site-link.com" target="_blank"><strong>🌐 Experience the Cinematic Portfolio</strong></a></p>
+  <p><a href="https://allan-cinematic-universe-three.vercel.app/Er.Allen_Yuvaraj/" target="_blank"><strong>🌐 Experience the Cinematic Portfolio</strong></a></p>
 </div>
 
 ---
