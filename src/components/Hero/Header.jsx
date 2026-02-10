@@ -15,7 +15,7 @@ import {
   HiOutlineTranslate,
 } from "react-icons/hi";
 import { useTranslation } from "react-i18next";
-import { navbarTranslations, navItems } from "../../constants/i18nConstants/navbarTranslations.js";
+import { navbarTranslations, navItems } from "../../constants/i18nConstants/navbarTranslations_temp.js";
 
 const Header = ({ canNavigate, onRestrictedClick, sectionRefs }) => {
   const { user } = useUser();
