@@ -3,7 +3,7 @@ import {
   DialogContent,
   DialogHeader,
   DialogTitle,
-} from "@/Components/ui/dialog";
+} from "@/components/ui/dialog";
 
 const EducationModal = ({ open, onClose, data }) => {
   if (!data) return null;
