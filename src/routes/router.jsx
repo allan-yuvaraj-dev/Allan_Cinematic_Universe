@@ -2,10 +2,10 @@
 import { createBrowserRouter } from "react-router-dom";
 import AppLayout from "../layouts/AppLayout";
 import Home from "../pages/Home";
-import ProtectedRoutes from "../Components/ProtectedRoutes";
+import ProtectedRoutes from "../components/ProtectedRoutes";
 import NotFound from "../pages/NotFound";
-import ExperienceSection from "@/Components/Experience/ExperienceSection";
-import Contact from "@/Components/Contact/Contact";
+import ExperienceSection from "@/components/Experience/ExperienceSection";
+import Contact from "@/components/Contact/Contact";
 import AboutSection from "@/components/About/AboutSection";
 import EducationSection from "@/components/Education/EducationSection";
 import ProjectsSection from "@/components/Projects/ProjectsSection";
