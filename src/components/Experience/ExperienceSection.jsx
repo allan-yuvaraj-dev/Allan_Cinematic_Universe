@@ -2,7 +2,7 @@ import { forwardRef, useEffect } from "react";
 import { useTranslation } from "react-i18next";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import { Card } from "@/Components/ui/card";
+import { Card } from "@/components/ui/card";
 import { experienceTranslations } from "../../constants/i18nConstants/experienceTranslations.js";
 
 const ExperienceSection = forwardRef((props, ref) => {
